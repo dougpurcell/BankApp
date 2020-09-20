@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ae054a2-26f1-4f7a-859d-bec8b81ec84f" name="Default Changelist" comment="" />
+    <list default="true" id="3ae054a2-26f1-4f7a-859d-bec8b81ec84f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/BankApp/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/BankApp/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +21,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hmmE9ZDAmkRIG0uUE9tySxuy4V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,16 +33,31 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
-    <configuration name="BankApp" type="Application" factoryName="Application">
+    <configuration name="App" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="App" />
       <module name="BankApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="GUI" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600624528109</updated>
-      <workItem from="1600624530928" duration="109000" />
+      <workItem from="1600624530928" duration="3521000" />
     </task>
     <servers />
   </component>
@@ -71,33 +97,53 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="462" y="180" key="#Project_Structure/0.23.1680.1027@0.23.1680.1027" timestamp="1600624549835" />
-    <state x="326" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600624627707">
+    <state x="326" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600631801978">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="326" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600624627707" />
-    <state x="599" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600624617719">
+    <state x="326" y="177" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600631801978" />
+    <state x="675" y="231" key="#com.intellij.ide.util.MemberChooser" timestamp="1600630352696">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="599" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600624617719" />
-    <state width="1468" height="260" key="GridCell.Tab.0.bottom" timestamp="1600624638342">
+    <state x="675" y="231" key="#com.intellij.ide.util.MemberChooser/0.23.1680.1027@0.23.1680.1027" timestamp="1600630352696" />
+    <state x="599" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1600631785690">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600624638342" />
-    <state width="1468" height="260" key="GridCell.Tab.0.center" timestamp="1600624638341">
+    <state x="599" y="306" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600631785690" />
+    <state x="147" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1600631825065">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600624638341" />
-    <state width="1468" height="260" key="GridCell.Tab.0.left" timestamp="1600624638341">
+    <state x="147" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600631825065" />
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom" timestamp="1600632081818">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600624638341" />
-    <state width="1468" height="260" key="GridCell.Tab.0.right" timestamp="1600624638342">
+    <state width="1638" height="280" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1600632081818" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center" timestamp="1600632081817">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600624638342" />
+    <state width="1638" height="280" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1600632081817" />
+    <state width="1638" height="280" key="GridCell.Tab.0.left" timestamp="1600632081817">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1600632081817" />
+    <state width="1638" height="280" key="GridCell.Tab.0.right" timestamp="1600632081818">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state width="1638" height="280" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1600632081817" />
+    <state x="705" y="338" key="UIDesigner.ListEditorDialog" timestamp="1600630918190">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="705" y="338" key="UIDesigner.ListEditorDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600630918190" />
     <state x="539" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1600624541116">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="539" y="347" key="com.intellij.ide.util.TipDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600624541116" />
+    <state x="618" y="403" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1600630311067">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="618" y="403" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1600630311067" />
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup" timestamp="1600631280066">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1600631280066" />
   </component>
 </project>
